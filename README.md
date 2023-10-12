@@ -19,3 +19,10 @@ When it shipped in April of 2023, Hidey Spot included the following features:
 My hope is that if you're looking to implement any of these in your Pulp game, you can learn from the way they're implemented in Hidey Spot.
 
 The game is "old" by Pulp standards; others have figured out better ways to do more impressive things in Pulp. I'm a novice programmer, and I relied heavily on Shaun Inman's help in scripting this. Thanks, Shaun!
+
+## How to load this code
+
+- Create a [Playdate Pulp](https://play.date/pulp) account
+- Use the Import feature and load in the JSON files
+- This should load the whole game, with all its graphics and code
+- Start with the `game` script and see if it makes sense :) 
